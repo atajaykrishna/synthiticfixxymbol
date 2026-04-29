@@ -1,1 +1,11 @@
+[default]
+valid=true
+expiry_date=2026-12-31
 
+[server_2]
+valid=false
+expiry_date=2025-01-01
+
+[server_3]
+valid=true
+expiry_date=2027-06-30

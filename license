@@ -1,5 +1,5 @@
 [default]
-valid=false
+valid=true
 expiry_date=2026-12-31
 
 [server_2]
@@ -9,3 +9,7 @@ expiry_date=2025-01-01
 [server_3]
 valid=true
 expiry_date=2027-06-30
+
+[paul_1]
+valid=true
+expiry_date=2026-12-30

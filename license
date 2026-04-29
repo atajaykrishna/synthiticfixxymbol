@@ -1,5 +1,5 @@
 [default]
-valid=false
+valid=true
 expiry_date=2026-12-31
 
 [server_2]
